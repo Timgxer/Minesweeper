@@ -1,1 +1,1 @@
-# Minesweeper
+This is python game - Minesweeper
